@@ -1,10 +1,8 @@
-# Kmavi
+# KMAVI
 
 Renovating the world with tech
 
-## About
-
-### Hi there 👋
+## About Us
 
 Kmavi is a dynamic and innovative tech company that specializes in crafting custom websites and software solutions. With a team of experienced professionals, we are dedicated to delivering top-quality services that are tailored to meet the unique needs of our clients.
 
