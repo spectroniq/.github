@@ -19,7 +19,15 @@ Whether you're a small business owner or a large corporation, Kmavi has the expe
 
 ## Contributions
 
-This company is not an open source company. We however have some open source projects like our developer community [palDevs]()
+This company is not an open source company. We however have some open source projects like our developer community **palDevs**
+
+### Contributing to palDevs frontend site
+
+- [palDevs Frontend](https://github.com/Kmavi/paldevs-site-frontend)
+
+### Contributing to palDevs Backend
+
+- [palDevs site backend/api](https://github.com/Kmavi/paldevs-site-backend)
 
 <!--
 
